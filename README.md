@@ -31,6 +31,10 @@ This project uses machine learning techniques to detect heart disease based on c
 
 See the notebook for detailed results, visualizations, and model performance.
 
+## Contact
+
+For questions or collaboration, feel free to reach out via personal website: https://datatrendx.com/ or Gmail: praveen11x@gmail.com.
+
 ## License
 
 This project is for educational purposes.
